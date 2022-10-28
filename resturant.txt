@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+<style>
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "italic", sans-serif}
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,
+            initial-scale=1, shrink-to-fit=no">
+ 
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href=
+"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity=
+"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+ 
+    <title>Restaurant Website</title>
+</head>
+ <body style="background-color:;">
+<div class="w3-top w3-hide-small">
+  <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar">
+    <a href="#" class="w3-bar-item w3-button">HOME</a>
+    <a href="#menu" class="w3-bar-item w3-button">MENU</a>
+    <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
+    <a href="#myMap" class="w3-bar-item w3-button">CONTACT</a>
+  </div>
+  </div>
+
+  <div class="w3-display-middle w3-center">
+    <span class="w3-text-white w3-hide-small" style="text-align:center;color:darkblue;font-size:100px"><br>Welcome To</br></span>
+    <span class="w3-text--white w3-hide-large w3-hide-medium" style="color:darkblue;font-size:60px";><b>Arabian Nights Resturant</b></span>
+  </div>
+</header>
+  <h3 style=text-align:center;color:blue;">
+                    Make a booking
+                </h3>
+                <form class="media-centered">
+                    <div class="form-group">
+                         
+<p>
+                            Please leave your number we will
+                            call to make a reservation
+                        </p>
+ 
+                         
+                        <input type="name" class="form-control"
+                            id="exampleInputName1"
+                            aria-describedby="nameHelp"
+                            placeholder="Enter your name">
+                    </div>
+                    <div class="form-group">
+                        <input type="number" class="form-control"
+                            id="exampleInputphoneNumber1"
+                            placeholder="Enter your phone number">
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        Submit
+                    </button>
+                </form>
+            </div>
+            <div class="opening-time">
+                <h3 style="text-align:center; color:blue">
+                    Opening times
+                </h3>
+                 
+<p>
+                    <span><b>Monday—Thursday: 08:00 — 22:00</b></span>
+                    <span><br><b>Friday—Saturday: 09:00 — 23:00</br><b></b></span>
+                    <span>Sunday: 10:00 — 24:00</span>
+                </p>
+ 
+            </div>
+            <div class="contact-address">
+                <h3 style="text-align:center;color:blue;">
+                    Contact
+                </h3>
+                 
+<p>
+                    <span>9492289899</span>
+                    <span>near Automotive junction,Maddilapalen</span>
+                    <span>Visakhapatnam,Andhra Pradesh 530013</span>
+                </p>
+ 
+            </div>
+        </div>
+    </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity=
+"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous">
+    </script>
+     
+    <script src=
+"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity=
+"sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous">
+    </script>
+     
+    <script src=
+"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity=
+"sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous">
+    </script>
+</body>
+ 
+</html>
+      
+  
